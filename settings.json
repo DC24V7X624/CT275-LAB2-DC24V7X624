@@ -1,0 +1,27 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "PG Local",
+            "database": "ct275_lab3",
+            "username": "postgres",
+            "connectionTimeout": 30,
+            "password": "12345678"
+        },
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "password": "12345678",
+            "name": "PG Local postgres",
+            "database": "CSDLct275_lab2",
+            "username": "postgres"
+        }
+    ]
+}
